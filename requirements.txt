@@ -2,3 +2,5 @@ keras
 scikit-learn
 numpy
 pandas
+h5py
+tensorflow
