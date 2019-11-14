@@ -3,4 +3,5 @@ scikit-learn
 numpy
 pandas
 h5py
+pillow
 tensorflow
