@@ -27,4 +27,4 @@ During the workshop we will be using jupyter notebook with Pytorch framework. Pl
 
 In case of any problems contact: marcinswiniarski20@gmail.com
 
-Google Collab: https://colab.research.google.com/drive/1455tABUpexuGj7PIijShOUl48xuToQRS
+#Google Collab: https://colab.research.google.com/drive/1455tABUpexuGj7PIijShOUl48xuToQRS
