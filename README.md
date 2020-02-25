@@ -9,7 +9,7 @@ During the workshop we will be using jupyter notebook with Pytorch framework. Pl
     * Type ```git clone https://github.com/marcinswiniarski20/Churn-Modelling.git```
 2. Setup Conda Enviroment
     1. [Download Anaconda Python 3.7 version](https://www.anaconda.com/distribution/) - package version management system, it includes jupyter notebook and other packages needed to complete the workshop
-    2. Once Anaconda have installed, open `Anaconda Prompt (Anaconda3)`, you should be able to find it by `win+search`
+    2. Once Anaconda is installed, open `Anaconda Prompt (Anaconda3)`, you should be able to find it by `win+search`
     <!-- 3. Create conda enviroment with python 3.7 and default name "ML-workshop" simply by: <br/>
     `conda create -n ML-workshop python=3.7` <br/> -->
     <!-- 4. Activate conda enviroment (to use the enviroment which we created above it needs to be activated): <br/>
