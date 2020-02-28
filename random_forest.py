@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-data = pd.read_csv('Position_Salaries.csv')
+data = pd.read_csv('data/Position_Salaries.csv')
 x = data.iloc[:, 1:2].values
 y = data.iloc[:, 2].values
 

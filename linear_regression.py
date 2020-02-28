@@ -9,7 +9,7 @@
 
 import pandas as pd
 
-data = pd.read_csv("baseball.csv")
+data = pd.read_csv("data/baseball.csv")
 pd.options.display.max_columns = data.shape[1] + 1
 pd.options.display.width = 900
 # print(data.head())
